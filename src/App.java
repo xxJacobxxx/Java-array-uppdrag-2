@@ -16,6 +16,7 @@ public class App {
         fält1[1] = fält1[2];
         fält1[2] = middle;
 
+        System.out.println("Finit, Nexxt progratime");
         
 
     }
